@@ -1,6 +1,9 @@
 # group1_initialassesment
 
-A new Flutter project.
+- Febry Christiani Thomas (Text (Bismillah) & Setting Font)
+- Halim Teguh Saputro (Text(Al - Fatihah & The Opening & Background Image)
+- Shasha Ramadhani Putri (Divider & Text (Meccan & 7 Verse)
+- Sigit Suseno (Container & Background Image)
 
 ## Getting Started
 
