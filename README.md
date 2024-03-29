@@ -12,7 +12,7 @@ Group Member:
 
 This project is a starting point for a Flutter application.
 
-![Preview](<assets\preview.png>)
+![image](/assets/preview.png)
 
 A few resources to get you started if this is your first Flutter project:
 
